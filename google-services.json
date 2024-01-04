@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865962949482",
+    "project_id": "esspresohub-49775",
+    "storage_bucket": "esspresohub-49775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865962949482:android:9f6ad27ed146563deb0313",
+        "android_client_info": {
+          "package_name": "com.example.esspresohub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS50pD9P0-gjCmpYcHcbpKiRgZE2MxWCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
